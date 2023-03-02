@@ -1,0 +1,22 @@
+{
+  "name": "chunk-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasHaddad/chunk-pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasHaddad/chunk-pdf/issues"
+  },
+  "homepage": "https://github.com/LucasHaddad/chunk-pdf#readme",
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
